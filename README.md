@@ -5,9 +5,9 @@ Scientific Programming with the SciPy Stack
 ### Esri DevSummit 2016
 
 
-**[View the Slides](#)**
+**[View the Slides](https://4326.us/esri/scipy/)**
 
-**[Download Handout Version (PDF)](#)**
+**[Download Handout Version (PDF)](https://4326.us/esri/scipy/devsummit-2016-scipy-arcgis-presentation-handout.pdf)**
 
 **[Download High Quality Version (PDF, 57MB)](#)**
 
