@@ -8,8 +8,7 @@ Scientific Programming with the SciPy Stack
 
 **[Download Handout Version (PDF)](https://4326.us/esri/scipy/devsummit-2016-scipy-arcgis-presentation-handout.pdf)**
 
-**[Download High Quality Version (PDF, 5MB)](#)**
-
+**[Download High Quality Version (PDF, 5MB)](https://4326.us/esri/scipy/devsummit-2016-scipy-arcgis-presentation-full.pdf)**
 **[Watch Last Years' Presentation](http://video.esri.com/watch/4419/python-working-with-scientific-data)**
 
 Description
