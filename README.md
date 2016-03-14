@@ -4,12 +4,11 @@ Scientific Programming with the SciPy Stack
 ### Shaun Walbridge & Kevin Butler
 ### Esri DevSummit 2016
 
-
 **[View the Slides](https://4326.us/esri/scipy/)**
 
 **[Download Handout Version (PDF)](https://4326.us/esri/scipy/devsummit-2016-scipy-arcgis-presentation-handout.pdf)**
 
-**[Download High Quality Version (PDF, 57MB)](#)**
+**[Download High Quality Version (PDF, 5MB)](#)**
 
 **[Watch Last Years' Presentation](http://video.esri.com/watch/4419/python-working-with-scientific-data)**
 
@@ -24,3 +23,4 @@ Building
  - From `slides/`, run `make` to rebuild the slide deck from the included slides.md file. Requires [Pandoc](http://johnmacfarlane.net/pandoc/).
  - Check links with `make check`, requires [LinkChecker](https://pypi.python.org/pypi/LinkChecker).
  - Generate handout version with `make pdf`. Requires XeTeX and pandoc.
+ - Generate high-quality PDF with `make fullpdf`. Requires [decktape.js](https://github.com/astefanutti/decktape)
